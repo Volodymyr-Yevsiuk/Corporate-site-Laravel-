@@ -1,0 +1,38 @@
+/**
+ * Your Inspiration Themes
+ * 
+ * In this files the framework register default metaboxes.
+ * 
+ * @package WordPress
+ * @subpackage Your Inspiration Themes
+ * @author Your Inspiration Themes Team <info@yourinspirationthemes.com>
+ *
+ * This source file is subject to the GNU GENERAL PUBLIC LICENSE (GPL 3.0)
+ * that is bundled with this package in the file LICENSE.txt.
+ * It is also available through the world-wide-web at this URL:
+ * http://www.gnu.org/licenses/gpl-3.0.txt
+ */
+
+/********************************************
+
+In this file you can add your custom CSS.
+It will always override rules in style.css.
+Good work... and good luck! :)
+
+********************************************/
+
+.wrap_result{
+    background-color: #f0f2f0;
+    border: 2px solid #2C8DB8;
+    border-radius: 10px;
+    padding: 20px;
+    position: fixed;
+    left: 35%;
+    top: 45%;
+    width: 300px;
+    height: 80px;
+    text-align: center;
+    display: none;
+    z-index: 5005;
+
+}
